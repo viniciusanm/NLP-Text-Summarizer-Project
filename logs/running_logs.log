@@ -1,0 +1,37 @@
+[2024-02-07 13:54:07,393: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-07 13:54:07,393: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-07 13:58:52,109: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-07 13:58:52,115: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-07 13:58:52,116: INFO: common: created directory at: artifacts]
+[2024-02-07 13:58:52,118: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-07 13:58:55,046: INFO: 1434958058: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 415E:9511:12721B:18EAAE:65C3B6CB
+Accept-Ranges: bytes
+Date: Wed, 07 Feb 2024 16:58:54 GMT
+Via: 1.1 varnish
+X-Served-By: cache-gig2250064-GIG
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1707325133.781310,VS0,VE1501
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 764cb252b5a503a95f6feda0754df55b8cd3a3ee
+Expires: Wed, 07 Feb 2024 17:03:54 GMT
+Source-Age: 1
+
+]
+[2024-02-07 14:24:30,952: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-07 14:24:30,955: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-07 14:24:30,957: INFO: common: created directory at: artifacts]
+[2024-02-07 14:24:30,959: INFO: common: created directory at: artifacts/data_validation]
