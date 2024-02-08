@@ -82,3 +82,158 @@ x==========x]
 [2024-02-08 10:06:42,741: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
 
 x==========x]
+[2024-02-08 10:19:42,907: INFO: config: PyTorch version 2.2.0 available.]
+[2024-02-08 10:20:12,011: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-08 10:20:12,012: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-08 10:20:12,015: INFO: common: created directory at: artifacts]
+[2024-02-08 10:20:12,029: INFO: common: created directory at: artifacts/data_transformation]
+[2024-02-08 10:48:21,872: INFO: config: PyTorch version 2.2.0 available.]
+[2024-02-08 10:58:29,480: INFO: config: PyTorch version 2.2.0 available.]
+[2024-02-08 10:58:29,822: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-08 10:58:29,835: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-08 10:58:29,837: INFO: common: created directory at: artifacts]
+[2024-02-08 10:58:29,838: INFO: common: created directory at: artifacts/model_trainer]
+[2024-02-08 11:26:42,148: INFO: config: PyTorch version 2.2.0 available.]
+[2024-02-08 11:26:46,487: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-02-08 11:26:46,521: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-08 11:26:46,536: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-08 11:26:46,536: INFO: common: created directory at: artifacts]
+[2024-02-08 11:26:46,536: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-08 11:26:46,544: INFO: data_ingestion: File already exists of size: ~ 7718 KB]
+[2024-02-08 11:26:46,930: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-02-08 11:26:46,930: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-02-08 11:26:46,930: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-08 11:26:46,930: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-08 11:26:46,930: INFO: common: created directory at: artifacts]
+[2024-02-08 11:26:46,930: INFO: common: created directory at: artifacts/data_validation]
+[2024-02-08 11:26:46,961: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-02-08 11:26:46,961: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-02-08 11:26:46,977: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-08 11:26:46,977: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-08 11:26:46,977: INFO: common: created directory at: artifacts]
+[2024-02-08 11:26:46,977: INFO: common: created directory at: artifacts/data_transformation]
+[2024-02-08 11:27:08,012: INFO: config: PyTorch version 2.2.0 available.]
+[2024-02-08 11:27:09,836: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-02-08 11:27:09,836: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-08 11:27:09,841: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-08 11:27:09,841: INFO: common: created directory at: artifacts]
+[2024-02-08 11:27:09,841: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-08 11:27:11,923: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: 8A3C:112666:292E98:326771:65C4E4BE
+Accept-Ranges: bytes
+Date: Thu, 08 Feb 2024 14:27:11 GMT
+Via: 1.1 varnish
+X-Served-By: cache-gig2250056-GIG
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1707402431.185587,VS0,VE421
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 324a1b33987d21b4ec110a97efc4b4b3a0f075b0
+Expires: Thu, 08 Feb 2024 14:32:11 GMT
+Source-Age: 0
+
+]
+[2024-02-08 11:27:12,142: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-02-08 11:27:12,142: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-02-08 11:27:12,142: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-08 11:27:12,142: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-08 11:27:12,142: INFO: common: created directory at: artifacts]
+[2024-02-08 11:27:12,157: INFO: common: created directory at: artifacts/data_validation]
+[2024-02-08 11:27:12,169: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-02-08 11:27:12,169: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-02-08 11:27:12,173: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-08 11:27:12,173: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-08 11:27:12,173: INFO: common: created directory at: artifacts]
+[2024-02-08 11:27:12,173: INFO: common: created directory at: artifacts/data_transformation]
+[2024-02-08 11:27:25,625: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-02-08 11:27:25,625: INFO: main: *******************]
+[2024-02-08 11:27:25,625: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-02-08 11:27:25,640: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-08 11:27:25,640: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-08 11:27:25,640: INFO: common: created directory at: artifacts]
+[2024-02-08 11:27:25,640: INFO: common: created directory at: artifacts/model_trainer]
+[2024-02-08 12:50:26,860: INFO: config: PyTorch version 2.2.0 available.]
+[2024-02-08 12:50:41,957: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-08 12:50:41,965: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-08 12:50:41,969: INFO: common: created directory at: artifacts]
+[2024-02-08 12:50:41,971: INFO: common: created directory at: artifacts/model_evaluation]
+[2024-02-08 13:00:30,617: INFO: config: PyTorch version 2.2.0 available.]
+[2024-02-08 13:00:34,141: INFO: main: >>>>>> stage Data Ingestion stage started <<<<<<]
+[2024-02-08 13:00:34,157: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-08 13:00:34,157: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-08 13:00:34,157: INFO: common: created directory at: artifacts]
+[2024-02-08 13:00:34,157: INFO: common: created directory at: artifacts/data_ingestion]
+[2024-02-08 13:00:35,629: INFO: data_ingestion: artifacts/data_ingestion/data.zip download! with following info: 
+Connection: close
+Content-Length: 7903594
+Cache-Control: max-age=300
+Content-Security-Policy: default-src 'none'; style-src 'unsafe-inline'; sandbox
+Content-Type: application/zip
+ETag: "dbc016a060da18070593b83afff580c9b300f0b6ea4147a7988433e04df246ca"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: deny
+X-XSS-Protection: 1; mode=block
+X-GitHub-Request-Id: C936:129B89:2A2834:33A936:65C4FAA3
+Accept-Ranges: bytes
+Date: Thu, 08 Feb 2024 16:00:36 GMT
+Via: 1.1 varnish
+X-Served-By: cache-gig2250057-GIG
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1707408036.171819,VS0,VE416
+Vary: Authorization,Accept-Encoding,Origin
+Access-Control-Allow-Origin: *
+Cross-Origin-Resource-Policy: cross-origin
+X-Fastly-Request-ID: 2a467f17dcf220246feed91ef19d2e27db76a576
+Expires: Thu, 08 Feb 2024 16:05:36 GMT
+Source-Age: 0
+
+]
+[2024-02-08 13:00:35,770: INFO: main: >>>>>> stage Data Ingestion stage completed <<<<<<
+
+x==========x]
+[2024-02-08 13:00:35,785: INFO: main: >>>>>> stage Data Validation stage started <<<<<<]
+[2024-02-08 13:00:35,785: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-08 13:00:35,785: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-08 13:00:35,785: INFO: common: created directory at: artifacts]
+[2024-02-08 13:00:35,785: INFO: common: created directory at: artifacts/data_validation]
+[2024-02-08 13:00:35,801: INFO: main: >>>>>> stage Data Validation stage completed <<<<<<
+
+x==========x]
+[2024-02-08 13:00:35,801: INFO: main: >>>>>> stage Data Transformation stage started <<<<<<]
+[2024-02-08 13:00:35,801: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-08 13:00:35,801: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-08 13:00:35,801: INFO: common: created directory at: artifacts]
+[2024-02-08 13:00:35,801: INFO: common: created directory at: artifacts/data_transformation]
+[2024-02-08 13:00:42,383: INFO: main: >>>>>> stage Data Transformation stage completed <<<<<<
+
+x==========x]
+[2024-02-08 13:00:42,383: INFO: main: *******************]
+[2024-02-08 13:00:42,383: INFO: main: >>>>>> stage Model Trainer stage started <<<<<<]
+[2024-02-08 13:00:42,383: INFO: common: yaml file: config\config.yaml loaded successfully]
+[2024-02-08 13:00:42,383: INFO: common: yaml file: params.yaml loaded successfully]
+[2024-02-08 13:00:42,383: INFO: common: created directory at: artifacts]
+[2024-02-08 13:00:42,383: INFO: common: created directory at: artifacts/model_trainer]
